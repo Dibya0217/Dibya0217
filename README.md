@@ -17,7 +17,7 @@
 
 ---
 
-## `whoami`
+## `Who am i`
 
 I build production-oriented backend systems in **Java** and **Spring Boot**, with a focus on clean
 architecture, security, and event-driven microservices. Currently going deep on **system design**,
