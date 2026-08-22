@@ -1,177 +1,235 @@
 <div align="center">
 
-# 👋 Hey, I'm Dibya Ranjan Samal
+# 👋 Hi, I'm **Dibya Ranjan Samal**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Building+Scalable+Backend+Systems;Designing+Event-Driven+Applications;Learning+System+Design+%26+AI+Engineering" alt="Typing SVG" />
+### ☕ Java Backend Developer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Dibya0217&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
-</p>
+<img src="YOUR_TYPING_SVG_URL_HERE" alt="Typing animation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-Backend%20Developer-00F7FF?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-Event%20Driven-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+<br/><br/>
+
+**Building scalable backend systems • Distributed Systems • Event-Driven Architecture**
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 `whoami`
 
 ```text
-☕ Java Backend Developer
-🏗️ Microservices & Distributed Systems
-⚡ Event-Driven Architecture with Apache Kafka
-🔐 Secure REST APIs with Spring Security
-🗄️ PostgreSQL • MySQL • MongoDB • Redis
-🐳 Docker • AWS • GitHub
-🧠 System Design • DSA
-🤖 Exploring AI Engineering
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   👨‍💻  JAVA BACKEND DEVELOPER                       ║
+║                                                      ║
+║   ☕  Java + Spring Boot                             ║
+║   🏗️  Microservices & Distributed Systems           ║
+║   ⚡  Apache Kafka & Event-Driven Architecture       ║
+║   🔐  Spring Security & JWT                          ║
+║   🗄️  PostgreSQL • MySQL • MongoDB • Redis          ║
+║   🐳  Docker • AWS                                   ║
+║   🧠  System Design & DSA                            ║
+║   🤖  Exploring AI Engineering                      ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
-
-I build **production-oriented backend systems** using Java and Spring Boot, with a strong focus on scalability, clean architecture, security, and distributed systems.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ `tech_stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,mongodb,redis,docker,aws,git,github,maven&perline=6" />
+### ☕ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+### 🐳 DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,maven" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 `featured_projects`
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🚚 Logistics Platform
 
-**Production-grade logistics backend**
+Production-oriented logistics backend built using:
 
 `Java` `Spring Boot` `Microservices` `Kafka` `PostgreSQL` `Redis` `Docker`
 
+**Highlights**
+
+* Microservices architecture
+* Event-driven communication
+* Secure REST APIs
+* Kafka messaging
+* Redis caching
+* PostgreSQL persistence
+
 <a href="https://github.com/Dibya0217/logistics-platform">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-00F7FF?style=for-the-badge&logoColor=black"/>
 </a>
 
----
+</td>
+
+<td width="50%">
 
 ### 🏦 Banking Platform
 
-**Enterprise banking backend**
+Enterprise banking backend built using:
 
 `Java` `Spring Boot` `Kafka` `PostgreSQL` `Redis` `JWT` `Docker`
 
+**Highlights**
+
+* Secure authentication
+* JWT authorization
+* Banking transactions
+* Kafka event processing
+* Redis caching
+* Microservices
+
 <a href="https://github.com/Dibya0217/banking-platform">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-00F7FF?style=for-the-badge&logoColor=black"/>
 </a>
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🤖 KnowledgeHub AI
 
-**AI-powered enterprise knowledge assistant**
+AI-powered enterprise knowledge assistant:
 
 `Java 25` `Spring Boot` `Spring AI` `Qdrant` `PostgreSQL` `React`
 
+**Highlights**
+
+* RAG architecture
+* Vector search
+* Qdrant
+* Spring AI
+* PostgreSQL
+* Docker
+
 <a href="https://github.com/Dibya0217/knowledgehub-ai">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/🤖_EXPLORE_PROJECT-00F7FF?style=for-the-badge&logoColor=black"/>
 </a>
 
----
+</td>
+
+<td width="50%">
 
 ### 💬 WhatsApp Clone
 
-**Real-time messaging application**
+Real-time messaging platform:
 
 `Spring Boot` `Kafka` `MongoDB` `React` `JWT`
 
+**Highlights**
+
+* Real-time messaging
+* Kafka events
+* JWT authentication
+* MongoDB
+* REST APIs
+* React frontend
+
 <a href="https://github.com/Dibya0217/whatsapp-clone">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/💬_EXPLORE_PROJECT-00F7FF?style=for-the-badge&logoColor=black"/>
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🏗️ What I Like Building
+## 🏗️ `architecture_mindset`
+
+<div align="center">
 
 ```text
-                    ┌──────────────────────┐
-                    │      JAVA BACKEND    │
-                    └──────────┬───────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-        ┌──────────┐     ┌──────────┐     ┌──────────┐
-        │  Spring  │     │  Kafka   │     │   DBs    │
-        │   Boot   │     │          │     │          │
-        └────┬─────┘     └────┬─────┘     └────┬─────┘
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                    ┌──────────────────┐
-                    │   Microservices  │
-                    └────────┬─────────┘
-                             ▼
-                    ┌──────────────────┐
-                    │ Distributed      │
-                    │ Systems          │
-                    └──────────────────┘
+                         ┌───────────────────┐
+                         │    CLIENT / API   │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │    API GATEWAY    │
+                         └─────────┬─────────┘
+                                   │
+                  ┌────────────────┼────────────────┐
+                  ▼                ▼                ▼
+            ┌──────────┐    ┌──────────┐    ┌──────────┐
+            │  AUTH    │    │  ORDER   │    │ SHIPMENT │
+            │ SERVICE  │    │ SERVICE  │    │ SERVICE  │
+            └────┬─────┘    └────┬─────┘    └────┬─────┘
+                 │               │               │
+                 └───────────────┼───────────────┘
+                                 ▼
+                        ┌─────────────────┐
+                        │      KAFKA      │
+                        └────────┬────────┘
+                                 │
+                   ┌─────────────┼─────────────┐
+                   ▼             ▼             ▼
+              Notification   Analytics     Tracking
+                Service       Service       Service
 ```
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dibya0217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibya0217&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
 </div>
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dibya0217&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dibya0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-## 🎯 Current Focus
+## 🧠 `current_focus`
 
 <div align="center">
 
 ```text
 Java Backend
-     ↓
+      │
+      ▼
 Spring Boot
-     ↓
+      │
+      ▼
 Microservices
-     ↓
+      │
+      ▼
 Apache Kafka
-     ↓
+      │
+      ▼
 Distributed Systems
-     ↓
+      │
+      ▼
 System Design
-     ↓
+      │
+      ▼
 Cloud & DevOps
-     ↓
+      │
+      ▼
 AI Engineering
 ```
 
@@ -179,31 +237,82 @@ AI Engineering
 
 ---
 
-## 📈 My Developer Journey
+## 🔥 `developer_mode`
 
 ```text
-2023 ───────────────► 2024 ───────────────► 2025 ───────────────► 2026
-  │                       │                       │                       │
-  ▼                       ▼                       ▼                       ▼
-Java                    Spring                 Kafka                 AI
-Core Java               Boot                  Microservices          Engineering
-OOP                     REST APIs             Docker                 RAG
-Collections             Security              AWS                    LLMs
-JDBC                    JPA                   System Design           Agents
+> booting developer_mode...
+
+[████████████████████████████████] 100%
+
+✓ Java Backend          ONLINE
+✓ Spring Boot           ONLINE
+✓ Microservices         ONLINE
+✓ Apache Kafka          ONLINE
+✓ PostgreSQL            ONLINE
+✓ Redis                 ONLINE
+✓ Docker                ONLINE
+✓ AWS                   ONLINE
+✓ System Design         LEARNING
+✓ AI Engineering        LEARNING
+
+> status: BUILDING 🚀
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 📈 `github_activity`
+
+<div align="center">
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Dibya0217)
+
+</div>
+
+---
+
+## 🎯 `2026_goals`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                   2026 MISSION                       ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  [✓] Build production-grade Java projects           ║
+║  [✓] Master Spring Boot                             ║
+║  [✓] Build Microservices                            ║
+║  [✓] Learn Apache Kafka                              ║
+║  [ ] Deep dive into System Design                    ║
+║  [ ] Strengthen DSA                                  ║
+║  [ ] Master AWS & DevOps                             ║
+║  [ ] Build AI-powered backend systems                ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 💻 `github`
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Dibya0217?style=for-the-badge&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Dibya0217?style=for-the-badge&logo=github&label=STARS" />
+<img src="https://img.shields.io/github/last-commit/Dibya0217/logistics-platform?style=for-the-badge&logo=git&label=LATEST%20PROJECT%20COMMIT" />
+
+</div>
+
+---
+
+## 🤝 `connect`
 
 <div align="center">
 
 <a href="https://github.com/Dibya0217">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Dibya0217-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -212,8 +321,12 @@ JDBC                    JPA                   System Design           Agents
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### `> Thanks for visiting my profile 👾`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+**Java • Spring Boot • Kafka • Microservices • Distributed Systems**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
 
 </div>
