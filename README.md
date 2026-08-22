@@ -1,26 +1,35 @@
-👋 Hi, I'm Dibya Ranjan Samal
+👋 Hi, I'm Dibya
 
-Java Backend Developer | Spring Boot | Microservices | Kafka
+Java Backend Developer
+────────────────────────
 
-I build scalable backend systems and production-oriented
-distributed applications using Java and Spring Boot.
+☕ Java
+🍃 Spring Boot
+🔐 Spring Security
+⚡ Kafka
+🗄️ PostgreSQL / MySQL / MongoDB
+🚀 Redis
+🐳 Docker
+☁️ AWS
 
-🚀 Currently working on
-• Enterprise Java Backend Systems
-• Microservices Architecture
-• Event-Driven Systems with Kafka
-• System Design & DSA
+━━━━━━━━━━━━━━━━━━━━━━
 
-🛠️ Tech Stack
-Java • Spring Boot • Spring Security • Kafka
-PostgreSQL • MySQL • MongoDB • Redis
-Docker • AWS • GitHub Actions
+🚀 Featured Projects
 
-📌 Featured Projects
 🚚 Logistics Platform
 🏦 Banking Platform
-🤖 AI Knowledge Hub
+🤖 KnowledgeHub AI
 💬 WhatsApp Clone
 
-📫 Connect with me
-LinkedIn | Email | GitHub
+━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+🔥 Contribution Streak
+📈 GitHub Stats
+💻 Most Used Languages
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🤝 Connect With Me
+LinkedIn | GitHub | Email
