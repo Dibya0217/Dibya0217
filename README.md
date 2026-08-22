@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Dibya Ranjan Samal
 
-<!--
-**Dibya0217/Dibya0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer | Spring Boot | Microservices | Kafka
 
-Here are some ideas to get you started:
+I build scalable backend systems and production-oriented
+distributed applications using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on
+• Enterprise Java Backend Systems
+• Microservices Architecture
+• Event-Driven Systems with Kafka
+• System Design & DSA
+
+🛠️ Tech Stack
+Java • Spring Boot • Spring Security • Kafka
+PostgreSQL • MySQL • MongoDB • Redis
+Docker • AWS • GitHub Actions
+
+📌 Featured Projects
+🚚 Logistics Platform
+🏦 Banking Platform
+🤖 AI Knowledge Hub
+💬 WhatsApp Clone
+
+📫 Connect with me
+LinkedIn | Email | GitHub
