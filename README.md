@@ -182,30 +182,19 @@ Real-time messaging application with an event-driven backend.
 
 ---
 
-## `github_stats`
+## 🐍 `contribution_snake`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dibya0217&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibya0217&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
+### 🐍 Eating my contributions one commit at a time...
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Dibya0217&hide_border=true&theme=tokyonight" alt="Contribution streak" />
-
-</div>
-
----
-
-## `contribution_snake`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibya0217/Dibya0217/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dibya0217/Dibya0217/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Dibya0217/Dibya0217/output/github-snake.svg" alt="GitHub contribution snake animation" />
-</picture>
+<img
+  src="https://github.com/Dibya0217/Dibya0217/blob/output/github-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="900"
+/>
 
 </div>
 
