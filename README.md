@@ -1,86 +1,69 @@
-# 👋 Hi, I'm Dibya Ranjan Samal
+<div align="center">
 
-### ☕ Java Backend Developer
+# 👋 Hey, I'm Dibya Ranjan Samal
 
-I build **scalable backend systems and production-oriented applications** using Java and Spring Boot.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Building+Scalable+Backend+Systems;Designing+Event-Driven+Applications;Learning+System+Design+%26+AI+Engineering" alt="Typing SVG" />
 
-I am focused on **Microservices, Event-Driven Architecture, Distributed Systems, and System Design**.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dibya0217&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+</p>
 
----
-
-## 🚀 What I'm Working On
-
-* ☕ Enterprise Java Backend Systems
-* 🏗️ Microservices Architecture
-* ⚡ Event-Driven Systems with Apache Kafka
-* 🔐 Secure REST APIs with Spring Security
-* 🗄️ Database Design & Optimization
-* 🧩 System Design & DSA
-* 🤖 AI-powered Backend Applications
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Backend
+```text
+☕ Java Backend Developer
+🏗️ Microservices & Distributed Systems
+⚡ Event-Driven Architecture with Apache Kafka
+🔐 Secure REST APIs with Spring Security
+🗄️ PostgreSQL • MySQL • MongoDB • Redis
+🐳 Docker • AWS • GitHub
+🧠 System Design • DSA
+🤖 Exploring AI Engineering
+```
 
-| Technology         | Experience                                      |
-| ------------------ | ----------------------------------------------- |
-| ☕ Java             | Core Java, Java 8+, Collections, Multithreading |
-| 🍃 Spring Boot     | REST APIs, Spring Data JPA, Spring Security     |
-| 🏗️ Microservices  | Service-based architecture, REST communication  |
-| ⚡ Apache Kafka     | Event-driven architecture & messaging           |
-| 🔐 Spring Security | JWT, Authentication & Authorization             |
+I build **production-oriented backend systems** using Java and Spring Boot, with a strong focus on scalability, clean architecture, security, and distributed systems.
 
-### 🗄️ Databases & Infrastructure
+---
 
-| Category           | Technologies      |
-| ------------------ | ----------------- |
-| 🗄️ Relational     | PostgreSQL, MySQL |
-| 🍃 NoSQL           | MongoDB           |
-| ⚡ Caching          | Redis             |
-| 🐳 Containers      | Docker            |
-| ☁️ Cloud           | AWS               |
-| 🔧 Build           | Maven, Gradle     |
-| 🔀 Version Control | Git, GitHub       |
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,mongodb,redis,docker,aws,git,github,maven&perline=6" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🚚 Logistics Platform
 
-**Production-grade logistics backend platform**
+**Production-grade logistics backend**
 
-`Java` `Spring Boot` `Microservices` `Kafka` `PostgreSQL` `Redis` `Spring Security` `Docker`
+`Java` `Spring Boot` `Microservices` `Kafka` `PostgreSQL` `Redis` `Docker`
 
-* Shipment and logistics management
-* Microservices architecture
-* Event-driven communication using Kafka
-* Secure REST APIs
-* PostgreSQL persistence
-* Redis caching
-* Dockerized services
-
-👉 **[View Logistics Platform](./logistics-platform)**
+<a href="https://github.com/Dibya0217/logistics-platform">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 ---
 
 ### 🏦 Banking Platform
 
-**Enterprise banking backend platform**
+**Enterprise banking backend**
 
-`Java` `Spring Boot` `Microservices` `Kafka` `PostgreSQL` `Redis` `JWT` `Docker`
+`Java` `Spring Boot` `Kafka` `PostgreSQL` `Redis` `JWT` `Docker`
 
-* Banking and transaction management
-* JWT-based authentication
-* Secure REST APIs
-* Kafka event processing
-* PostgreSQL database
-* Redis caching
-* Microservices architecture
-
-👉 **[View Banking Platform](./banking-platform)**
+<a href="https://github.com/Dibya0217/banking-platform">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 ---
 
@@ -88,17 +71,11 @@ I am focused on **Microservices, Event-Driven Architecture, Distributed Systems,
 
 **AI-powered enterprise knowledge assistant**
 
-`Java 25` `Spring Boot` `Spring AI` `Qdrant` `PostgreSQL` `React` `Docker`
+`Java 25` `Spring Boot` `Spring AI` `Qdrant` `PostgreSQL` `React`
 
-* AI-powered knowledge retrieval
-* RAG architecture
-* Vector database using Qdrant
-* Spring AI integration
-* PostgreSQL persistence
-* REST APIs
-* Dockerized application
-
-👉 **[View KnowledgeHub AI](./knowledgehub-ai)**
+<a href="https://github.com/Dibya0217/knowledgehub-ai">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 ---
 
@@ -108,72 +85,135 @@ I am focused on **Microservices, Event-Driven Architecture, Distributed Systems,
 
 `Spring Boot` `Kafka` `MongoDB` `React` `JWT`
 
-* Real-time messaging
-* Secure JWT authentication
-* Kafka-based event processing
-* MongoDB persistence
-* REST APIs
-* React frontend
+<a href="https://github.com/Dibya0217/whatsapp-clone">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
-👉 **[View WhatsApp Clone](./whatsapp-clone)**
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🏗️ What I Like Building
 
 ```text
-System Design
+                    ┌──────────────────────┐
+                    │      JAVA BACKEND    │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        ┌──────────┐     ┌──────────┐     ┌──────────┐
+        │  Spring  │     │  Kafka   │     │   DBs    │
+        │   Boot   │     │          │     │          │
+        └────┬─────┘     └────┬─────┘     └────┬─────┘
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                    ┌──────────────────┐
+                    │   Microservices  │
+                    └────────┬─────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │ Distributed      │
+                    │ Systems          │
+                    └──────────────────┘
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dibya0217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibya0217&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dibya0217&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dibya0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```text
+Java Backend
      ↓
-Distributed Systems
+Spring Boot
      ↓
 Microservices
      ↓
 Apache Kafka
+     ↓
+Distributed Systems
+     ↓
+System Design
      ↓
 Cloud & DevOps
      ↓
 AI Engineering
 ```
 
+</div>
+
 ---
 
-## 🎯 Career Focus
+## 📈 My Developer Journey
 
 ```text
-Java Backend Engineering
-        │
-        ├── Spring Boot
-        ├── Microservices
-        ├── Apache Kafka
-        ├── PostgreSQL / MongoDB
-        ├── Redis
-        ├── Docker
-        ├── AWS
-        └── System Design
+2023 ───────────────► 2024 ───────────────► 2025 ───────────────► 2026
+  │                       │                       │                       │
+  ▼                       ▼                       ▼                       ▼
+Java                    Spring                 Kafka                 AI
+Core Java               Boot                  Microservices          Engineering
+OOP                     REST APIs             Docker                 RAG
+Collections             Security              AWS                    LLMs
+JDBC                    JPA                   System Design           Agents
 ```
-
----
-
-## 📊 GitHub
-
-I regularly work on:
-
-* ☕ Java Backend Development
-* 🧠 Data Structures & Algorithms
-* 🏗️ System Design
-* 🚀 Production-style Backend Projects
-* 🤖 AI Engineering
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn
-* 🐙 GitHub
-* 📧 Email
+<div align="center">
+
+<a href="https://github.com/Dibya0217">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-If you find my projects useful, feel free to ⭐ the repositories.
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+
+</div>
